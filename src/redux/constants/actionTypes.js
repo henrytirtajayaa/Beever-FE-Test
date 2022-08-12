@@ -1,0 +1,6 @@
+export const ActionTypes = {
+     GET_QUOTE : 'GET_QUOTE',
+     GET_QUOTE_SUCCESS : 'GET_QUOTE_SUCCESS',
+     SAVE_FAVORITE : 'SAVE_FAVORITE',
+     SAVE_MY_QUOTE : 'SAVE_MY_QUOTE'
+};
